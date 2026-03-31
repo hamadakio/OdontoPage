@@ -6,6 +6,8 @@
   "textoTelaSplash" : "The app was developed to advise people who have \nsuffered dental trauma, as well as educators, \nparents and/or guardians, on how to proceed \nwith first aid in these cases. \nThe app also provides information about prevention, \ncare and guidance after a traumatic dental injury.",
   "textoBotaoEmergencia" : "EMERGENCY\nFIRST AID",
   "textoBotaoInfoTrauma" : "TRAUMA\nINFORMATION",
+  "textoBotaoLingua" : "LANGUAGE",
+  "textoBotaoReferencias" : "REFERENCES",
 
   "textoTituloPrimeirosSocorros" : "FIRST AID",
   "textoPrimeirosSocorrosAtencao" : "In cases of jaw and joint injury and/or head trauma or fainting, take the person directly for emergency medical care.",
@@ -14,8 +16,10 @@
   "textoLegendaPrimeirosSocorrosDenteEntrouGengiva" : "Tooth has penetrated the gum (intrusion)",
   "textoLegendaPrimeirosSocorrosDenteSaiuInteiro" : "Tooth has fallen out in one piece (avulsion)",
   "textoLegendaPrimeirosSocorrosDenteMachucouLabios" : "Injured/hurt lips, tongue and/or gums",
+  "textoPrimeirosSocorrosOpcoes" : "Opções",
+  "textoPrimerosSocorrosInfo" : "More Information",
   
-  
+  "textoMenuPrimeirosSocorrosDenteMovimentou" : "Select one of the Options",
   "textoTituloInformacoesTrauma" : "TRAUMA INFORMATION",
   "textoBotaoInfoTraumaComoPrevenir" : "How can dental \ntrauma be prevented",
   "textoBotaoInfoTraumaCuidados" : "Care after \nemergency treatment",
@@ -63,6 +67,7 @@
   "textoPrimeirosSocorrosDenteMovimentouTP18" : "Clean teeth with a soft or extra-soft toothbrush and dental floss after each meal, brushing teeth gently or using a damp cotton swab to keep the injured area clean",
   "textoPrimeirosSocorrosDenteMovimentouTP19" : "Rinse mouth with chlorhexidine 0.12% twice a day for 2 weeks. If the child is very young, apply chlorhexidine to the affected area with a cotton swab",
   "textoPrimeirosSocorrosDenteMovimentouTP20" : "Attend routine appointments for follow-up and monitoring by a dental professional.",
+  "textoPrimeirosSocorrosDenteMovimentouTP21" : "I don't know",
   
   "textoPrimeirosSocorrosTituloDenteGengiva" : "Tooth has penetrated the gum",
   "textoPrimeirosSocorrosDenteGengivaTP1" : "Keep person/child calm",
@@ -161,6 +166,16 @@
   "textoTraumaPermanenteTP16" : "Traumatic twinning",
   "textoTraumaPermanenteTP17" : "Characterized by tooth of different size and/or shape than normal, appearing to be composed of two teeth, but with single root. This occurs due to failed tooth germ division, resulting in incomplete formation of two teeth.",
   "textoTraumaPermanenteTP18" : "As last resort: TOOTH LOSS",
-  "textoTraumaPermanenteTP19" : "In cases where tooth retention is contraindicated (due to mobility, impossibility of root canal treatment or changes in formation precluding treatment), the dentist and patient should discuss the possible forms of treatment, with tooth extraction being the last resort."
+  "textoTraumaPermanenteTP19" : "In cases where tooth retention is contraindicated (due to mobility, impossibility of root canal treatment or changes in formation precluding treatment), the dentist and patient should discuss the possible forms of treatment, with tooth extraction being the last resort.",
+  "stitchBadgeSafe": "Dentist-verified guidance",
+  "stitchWelcomeTitle": "Care in Every Smile",
+  "stitchWelcomeSubtitle": "Continue to access first aid, prevention and references.",
+  "stitchContinue": "Continue",
+  "stitchBadgeDentist": "Specialized guidance",
+  "stitchDashboardHeading": "Hi, how can we help right now?",
+  "stitchReferencesSubtitle": "Scientific sources and professional guides",
+  "languageScreenTitle": "Choose your language",
+  "languageScreenSubtitle": "Select your language to start your journey.",
+  "languageBadge": "Gentle care guaranteed"
 
 }

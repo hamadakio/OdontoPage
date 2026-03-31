@@ -6,6 +6,8 @@
   "textoTelaSplash" : "La aplicación fue desarrollada con el objetivo de informar a las \npersonas que han sufrido un traumatismo dental, así como a educadores, padres y/o \ntutores sobre qué hacer durante los primeros auxilios en este caso. Además, esta \naplicación proporciona información sobre prevención, cuidados y orientación tras una \nlesión dental traumática. ",
   "textoBotaoEmergencia" : "PRIMEROS AUXILIOS\nDE EMERGENCIA",
   "textoBotaoInfoTrauma" : "INFORMACIÓN\nSOBRE TRAUMA",
+  "textoBotaoLingua" : "IDIOMA",
+  "textoBotaoReferencias" : "REFERENCIAS",
 
   "textoTituloPrimeirosSocorros" : "PRIMEROS AUXILIOS",
   "textoPrimeirosSocorrosAtencao" : "En los casos en que la mandíbula y las articulaciones estén lesionadas y/o si hay un traumatismo craneoencefálico o desmayo, llevar a la persona directamente a atención médica de emergencia. ",
@@ -14,7 +16,8 @@
   "textoLegendaPrimeirosSocorrosDenteEntrouGengiva" : "El diente ha entrado en la encía (intrusión)",
   "textoLegendaPrimeirosSocorrosDenteSaiuInteiro" : "El diente entero se salió de la boca (avulsión)",
   "textoLegendaPrimeirosSocorrosDenteMachucouLabios" : "Labios, lengua y/o encías lesionados/magullados",
-  
+  "textoPrimeirosSocorrosOpcoes" : "Opções",
+  "textoPrimerosSocorrosInfo" : "Más Información",
   
   "textoTituloInformacoesTrauma" : "INFORMAÇÕES \nSOBRE TRAUMA",
   "textoBotaoInfoTraumaComoPrevenir" : "Cómo prevenir el\n traumatismo dental",
@@ -41,7 +44,7 @@
   "textoPrimeirosSocorrosDenteQuebrouTP10" : "Mantenga una buena higiene bucal cepillándose los dientes con un cepillo suave o extra suave después de cada comida y utilizando hilo dental ",
   "textoPrimeirosSocorrosDenteQuebrouTP11" : "Acudir a citas de rutina para seguimiento y seguimiento del caso por parte de un profesional.",
   
-  
+  "textoMenuPrimeirosSocorrosDenteMovimentou" : "Seleccione una de las Opciones",
   "textoPrimeirosSocorrosTituloDenteMovimentou" : "El diente se ha movido",
   "textoPrimeirosSocorrosDenteMovimentouTP1" : "Mantenga la calma de la persona/niño ",
   "textoPrimeirosSocorrosDenteMovimentouTP2" : "Evaluar el estado general de la persona: si está consciente, responde sin confusión mental o si tiene una lesión más grave",
@@ -63,6 +66,7 @@
   "textoPrimeirosSocorrosDenteMovimentouTP18" : "Limpia tus dientes con un cepillo suave o extrasuave y hilo dental después de cada comida, cepillándote los dientes suavemente o usando un bastoncillo de algodón húmedo para mantener limpia la herida ",
   "textoPrimeirosSocorrosDenteMovimentouTP19" : "Enjuague con clorhexidina al 0,12% dos veces al día durante 2 semanas. Si el niño es muy pequeño, aplique clorhexidina con un bastoncillo de algodón en la zona afectada ",
   "textoPrimeirosSocorrosDenteMovimentouTP20" : "Acude a citas de rutina para seguimiento y seguimiento por parte de un profesional.",
+  "textoPrimeirosSocorrosDenteMovimentouTP21" : "No sé",
   
   "textoPrimeirosSocorrosTituloDenteGengiva" : "El diente ha entrado en la encía",
   "textoPrimeirosSocorrosDenteGengivaTP1" : "Mantenga la calma de la persona/niño ",
@@ -75,7 +79,7 @@
   "textoPrimeirosSocorrosDenteGengivaTP8" : "Pídele que siga mordiendo hasta llegar al dentista, para que el diente no se salga de su posición. ",
   "textoPrimeirosSocorrosDenteGengivaTP9" : "Recomendaciones",
   "textoPrimeirosSocorrosDenteGengivaTP10" : "Acuda al dentista lo antes posible, ya que las primeras horas tras el accidente son muy importantes para el éxito del tratamiento ",
-  "textoPrimeirosSocorrosDenteGengivaTP11'" : "Mantener una dieta blanda/blanda durante 2 semanas ",
+  "textoPrimeirosSocorrosDenteGengivaTP11" : "Mantener una dieta blanda/blanda durante 2 semanas ",
   "textoPrimeirosSocorrosDenteGengivaTP12" : "Evite la participación en deportes de contacto físico durante 2 semanas ",
   "textoPrimeirosSocorrosDenteGengivaTP13" : "Limpia tus dientes con un cepillo suave o extrasuave y hilo dental después de cada comida, cepillándote los dientes suavemente o usando un bastoncillo de algodón húmedo para mantener limpia la herida ",
   "textoPrimeirosSocorrosDenteGengivaTP14" : "Enjuague con clorhexidina al 0,12% dos veces al día durante 2 semanas. Si el niño es muy pequeño, aplique clorhexidina con un bastoncillo de algodón en la zona afectada ",
@@ -162,6 +166,16 @@
   "textoTraumaPermanenteTP16" : "Hermanamiento traumático",
   "textoTraumaPermanenteTP17" : "Caracterizado por un diente de tamaño y/o forma diferente a lo normal, pareciendo estar compuesto por dos dientes, pero con una sola raíz. Ocurre por un fallo en el intento de dividir el germen del diente, dando como resultado la formación incompleta de dos dientes.",
   "textoTraumaPermanenteTP18" : "Último caso: PÉRDIDA DE DIENTES",
-  "textoTraumaPermanenteTP19" : "Casos en los que no hay indicación de mantener el diente en boca por movilidad, (imposibilidad de tratamiento de conductos o cambio de formación que imposibilita el tratamiento). Las posibles formas de tratamiento deben discutirse entre el dentista y el paciente, siendo la extracción del diente la última opción."
+  "textoTraumaPermanenteTP19" : "Casos en los que no hay indicación de mantener el diente en boca por movilidad, (imposibilidad de tratamiento de conductos o cambio de formación que imposibilita el tratamiento). Las posibles formas de tratamiento deben discutirse entre el dentista y el paciente, siendo la extracción del diente la última opción.",
+  "stitchBadgeSafe": "Guía validada por dentistas",
+  "stitchWelcomeTitle": "Cuidado en Cada Sonrisa",
+  "stitchWelcomeSubtitle": "Continúa para acceder a primeros auxilios, prevención y referencias.",
+  "stitchContinue": "Continuar",
+  "stitchBadgeDentist": "Orientación especializada",
+  "stitchDashboardHeading": "Hola, ¿cómo podemos ayudar ahora?",
+  "stitchReferencesSubtitle": "Fuentes científicas y guías profesionales",
+  "languageScreenTitle": "Elige tu idioma",
+  "languageScreenSubtitle": "Selecciona el idioma para iniciar tu recorrido.",
+  "languageBadge": "Atención cercana garantizada"
 
 }
